@@ -1,0 +1,23 @@
+git init (initialize the current directory as Git repository)
+
+git clone url(download a git repo from a hosted storage to local storage )
+
+git status(show modified files in current working directory )
+
+git add fileName(add a file to current stage:next for commit)
+
+git commit -m "//note" (commit your current content to as a new commit)
+
+git branch (show your branches: green-current working branch)
+
+git branch name(create a new branch)
+
+git checkout name(switch to another branch)
+
+git log(show all commits ))
+
+git pull(fetch and merge any commits)
+
+git push(transmit local branch commit to the remote repository branch)
+
+git checkout -b "fileName"(create new branch and switch new created branch)
